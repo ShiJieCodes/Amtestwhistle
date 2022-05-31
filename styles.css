@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background-color: #CCF3EE;
+}
+
+.padding {
+  padding-top: 20px;
+}
+
+.label {
+  margin-top: 20px;
+}
+
+h1 {
+  background-color: #97C4B8;
+  font-size: 80px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+img {
+  margin: 0;
+}
